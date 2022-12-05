@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^$str" /etc/ssh/ssh_config
