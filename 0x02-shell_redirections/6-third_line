@@ -1,2 +1,3 @@
 #!/bin/bash
-cat iacta | sed -n '3p'
+#cat iacta | sed -n '3p'
+cat iacta | head -3 | tail -1
